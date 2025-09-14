@@ -6,3 +6,4 @@ Hello everyone, welcome to the micromouse project. This repo will contain the pr
 - Andrew Chen
 - Olivia Mobley
 - Rhonda Ojongmboh
+- Henry Moyer
