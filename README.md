@@ -5,3 +5,4 @@ Hello everyone, welcome to the micromouse project. This repo will contain the pr
 - Ean Smith
 - Andrew Chen
 - Olivia Mobley
+- New Person
