@@ -7,3 +7,4 @@ Hello everyone, welcome to the micromouse project. This repo will contain the pr
 - Olivia Mobley
 - New Person
 - Rhonda Ojongmboh
+- Olivia Sobek
